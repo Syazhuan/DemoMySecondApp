@@ -4,22 +4,16 @@
     android:layout_height="match_parent"
     android:orientation="vertical">
 
-
-    <Button
-        android:id="@+id/button"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="Button" />
-
-    <Button
-        android:id="@+id/button2"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="Button" />
-
-    <Button
-        android:id="@+id/button3"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="Button" />
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="208dp"
+        android:layout_height="743dp"
+        android:background="#FFFF00"
+        android:foreground="@color/design_default_color_background"
+        android:foregroundGravity="fill_horizontal"
+        android:text="This is a TextView"
+        android:textColorHighlight="#FFC107"
+        android:textIsSelectable="false"
+        android:textSize="24sp"
+        android:visibility="visible" />
 </LinearLayout>
