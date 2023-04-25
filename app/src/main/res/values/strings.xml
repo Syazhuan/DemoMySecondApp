@@ -4,4 +4,8 @@
     <string name="bt2">Button 2</string>
     <string name="bt1">Button 1</string>
     <string name="LT">Large Text</string>
+    <string name="nm">Name:</string>
+    <string name="Pass">Password:</string>
+    <string name="LG">LOGIN</string>
+    <string name="CL">CANCEL</string>
 </resources>
